@@ -1,58 +1,63 @@
-The is the storage of all of the heafty files that need to be loaded onto game host but can't be put on there directly due to their size.
-Games that need to be added to the site:
-    10 minutes until dawn
-    A dance of ice and fire
-    BTD 1-6
-    Bit celeste
-    Crossy road
-    GD (flash or lite)
-    I wanna be thy copy
-    Unfair Mario
-    Cat Mario
-    Mindustry
-    N-Gon
-    OsuMania
-    PVZ
-    The rest of the papa's games
-    Deepest sword
-    Factory balls forever
-    Boxing random
-    Volleyball random
-    Soccer random
-    Basketball random
-    rooftop snipers
-    Retro bowl
-    Retro bowl college
-    Slope
-    Snowball.io
-    1v1 lol
-    We become what we behold
-    Vex 1-6
-    World's hardest game 1&2
-    World's easist quiz
-    Impossible quiz 2 (NOT 3 IT WAS REALLY BAD)
-    YoHoHo.io
-    Zomboaclypse
-    Dadish 1-3
-    Bit planes
-    FNAF 1-4
-    FNAF UCN
-    There is only one level 2
-    The rouge soul series
-    The run series
-    The Fireboy and Watergirl series
-    The Earn to die series
-    60 seconds burger run
-    Vision by proxy
-    Mad day
-    Me and Key 1&2
-Games that need thumbnails:
-    Me and Key 1 & 2
-    Indie cross
-    FNF Neo
-    Mario Madness
-Other:
-    Fix shell shockers
-    Fix super smash flash 2
-    Fix factory balls 2
-    Go down the list and add all of the games that aren't avalible but are still on the site
+<div><h3>The is the storage of all of the heafty files that need to be loaded onto game host but can't be put on there directly due to their size.</h3></div>
+<div>
+    <h2>Games that need to be added to the site:</h2>
+    <li>10 minutes until dawn</li>
+    <li>A dance of ice and fire</li>
+    <li>BTD 1-6</li>
+    <li>Bit celeste</li>
+    <li>Crossy road</li>
+    <li>GD (flash or lite)</li>
+    <li>I wanna be thy copy</li>
+    <li>Unfair Mario</li>
+    <li>Cat Mario</li>
+    <li>Mindustry</li>
+    <li>N-Gon</li>
+    <li>OsuMania</li>
+    <li>PVZ</li>
+    <li>The rest of the papa's games</li>
+    <li>Deepest sword</li>
+    <li>Factory balls forever</li>
+    <li>Boxing random</li>
+    <li>Volleyball random</li>
+    <li>Soccer random</li>
+    <li>Basketball random</li>
+    <li>rooftop snipers</li>
+    <li>Retro bowl</li>
+    <li>Retro bowl college</li>
+    <li>Slope</li>
+    <li>Snowball.io</li>
+    <li>1v1 lol</li>
+    <li>We become what we behold</li>
+    <li>Vex 1-6</li>
+    <li>World's hardest game 1&2</li>
+    <li>World's easist quiz</li>
+    <li>Impossible quiz 2 (NOT 3 IT WAS REALLY BAD)</li>
+    <li>YoHoHo.io</li>
+    <li>Zomboaclypse</li>
+    <li>Dadish 1-3</li>
+    <li>Bit planes</li>
+    <li>FNAF 1-4</li>
+    <li>FNAF UCN</li>
+    <li>There is only one level 2</li>
+    <li>The rouge soul series</li>
+    <li>The run series</li>
+    <li>The Fireboy and Watergirl series</li>
+    <li>The Earn to die series</li>
+    <li>60 seconds burger run</li>
+    <li>Vision by proxy</li>
+    <li>Mad day</li>
+    <li>Me and Key 1&2</li>
+<div>
+    <h2>Games that need thumbnails:</h2>
+    <li>Me and Key 1 & 2</li>
+    <li>Indie cross</li>
+    <li>FNF Neo</li>
+    <li>Mario Madness</li>
+</div>
+<div>
+    <h2>Other:</h2>
+    <li>Fix shell shockers</li>
+    <li>Fix super smash flash 2</li>
+    <li>Fix factory balls 2</li>
+    <li>Go down the list and add all of the games that aren't avalible but are still on the site</li>
+</div>
