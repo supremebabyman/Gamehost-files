@@ -9,9 +9,9 @@
     <li>GD (flash or lite)</li>
     <li>I wanna be thy copy</li>
     <li>Unfair Mario</li>
-    <li>Cat Mario</li>
+    <li>Cat Mario</li> <!-- we have this swf-->
     <li>Mindustry</li>
-    <li>N-Gon</li>
+    <li>N-Gon</li> <!-- we have this file-->
     <li>OsuMania</li>
     <li>PVZ</li>
     <li>The rest of the papa's games</li>
@@ -36,17 +36,17 @@
     <li>Zomboaclypse</li>
     <li>Dadish 1-3</li>
     <li>Bit planes</li>
-    <li>FNAF 1-4</li>
-    <li>FNAF UCN</li>
-    <li>There is only one level 2</li>
-    <li>The rouge soul series</li>
-    <li>The run series</li>
-    <li>The Fireboy and Watergirl series</li>
-    <li>The Earn to die series</li>
-    <li>60 seconds burger run</li>
-    <li>Vision by proxy</li>
-    <li>Mad day</li>
-    <li>Me and Key 1&2</li>
+    <li>FNAF 1-4</li> <!-- we have this file-->
+    <li>FNAF UCN</li> <!-- we have this file-->
+    <li>There is only one level 2</li> <!-- we have this swf-->
+    <li>The rouge soul series</li> <!-- we have this swf-->
+    <li>The run series</li> <!-- we have this swf-->
+    <li>The Fireboy and Watergirl series</li> <!-- we have this swf-->
+    <li>The Earn to die series</li> <!-- we have this swf-->
+    <li>60 seconds burger run</li> <!-- we have this swf-->
+    <li>Vision by proxy</li> <!-- we have this swf-->
+    <li>Mad day</li> <!-- we have this swf-->
+    <li>Me and Key 1&2</li> <!-- we have this swf-->
 <div>
     <h2>Games that need thumbnails:</h2>
     <li>Me and Key 1 & 2</li>
