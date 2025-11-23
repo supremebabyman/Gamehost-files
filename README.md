@@ -12,7 +12,8 @@
     <li>Cat Mario</li> <!-- we have this swf-->
     <li>Mindustry</li>
     <li>N-Gon</li> <!-- we have this file-->
-    <li>OsuMania</li>
+    <li>Osu</li>
+    <li>beatblock</li>
     <li>PVZ</li>
     <li>The rest of the papa's games</li>
     <li>Deepest sword</li>
