@@ -49,16 +49,3 @@
     <li>Mad day</li> <!-- we have this swf-->
     <li>Me and Key 1&2</li> <!-- we have this swf-->
 <div>
-    <h2>Games that need thumbnails:</h2>
-    <li>Me and Key 1 & 2</li>
-    <li>Indie cross</li>
-    <li>FNF Neo</li>
-    <li>Mario Madness</li>
-</div>
-<div>
-    <h2>Other:</h2>
-    <li>Fix shell shockers</li>
-    <li>Fix super smash flash 2</li>
-    <li>Fix factory balls 2</li>
-    <li>Go down the list and add all of the games that aren't avalible but are still on the site</li>
-</div>
